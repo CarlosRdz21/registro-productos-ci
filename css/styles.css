@@ -1,0 +1,22 @@
+body {
+  min-height: 100vh;
+}
+
+.card {
+  border-radius: 0.75rem;
+}
+
+.buscador {
+  max-width: 22rem;
+}
+
+.acciones {
+  white-space: nowrap;
+}
+
+@media (max-width: 575.98px) {
+  .buscador {
+    max-width: none;
+  }
+}
+
