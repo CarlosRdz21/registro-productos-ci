@@ -1,0 +1,13 @@
+{
+  "name": "registro-productos",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Aplicación académica para practicar Git, GitHub y GitHub Actions.",
+  "scripts": {
+    "test": "node --test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
+
