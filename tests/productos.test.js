@@ -27,7 +27,7 @@ test('acepta y normaliza los datos válidos de un producto', () => {
   assert.deepEqual(resultado, {
     nombre: 'Cuaderno',
     categoria: 'Papelería',
-    precio: 36,
+    precio: 35.5,
     existencias: 12,
   });
 });
